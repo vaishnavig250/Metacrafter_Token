@@ -1,6 +1,6 @@
 # ETH PROOF: Beginner EVM Course
 This course was designed about some basic concepts about Web3 and Blockchain with the solidity programming. 
-I learnt various concepts through this course which i earlier didn't know.
+I learnt various concepts through this course which i didn't know  earlier .
 After Completed all three given modules i have to make a contract with the help of this concepts.
 
 ## The Course 
