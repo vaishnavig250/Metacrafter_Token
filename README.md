@@ -1,7 +1,7 @@
 # ETH PROOF: Beginner EVM Course
 This course was designed about some basic concepts about Web3 and Blockchain with the solidity programming. 
 I learnt various concepts through this course which i didn't know  earlier .
-After Completed all three given modules i have to make a contract with the help of this concepts.
+After Completing all three given modules i have to make a contract with the help of this concepts.
 
 ## The Course 
 I wrote the code in Solidity Language with the help of Metacrafter Beginner EVM Course.
@@ -9,7 +9,7 @@ I wrote the code in Solidity Language with the help of Metacrafter Beginner EVM 
 
 ## The Challenge 
 
-I have a challenge to create contract. In that I created a contract name as MyToken where token name as "noise" and token abbreviation as "go" along with its total supply. If I wants to mint some amount of noise tokens then it will be added to the total supply of it. Also if I burns those tokens, it will get subtracted from the total supply (Only if there is enough balance).
+I have a challenge to create contract. In that I created a contract name as MyToken where token name as "noise" and token abbreviation as "go" along with its total supply. If I want to mint some amount of noise tokens then it will be added to the total supply of it. Also if I burns those tokens, it will get subtracted from the total supply (Only if there is enough balance).
 
 ### Operation 
 
